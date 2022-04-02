@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7544b2f9-faf5-4c9d-959a-457b5493b558" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kOkntcDaQd5uGflrs5SnaZccRm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Documents/sw/android_sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SeleniumBasic" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pkg25_Cohesion" />
+      <recent name="pkg23_UpDownCasting" />
+      <recent name="pkg22_Interface" />
+      <recent name="pkg21_Abstract" />
+      <recent name="pkg20_PolymorphismRunTime" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\TonyStark\CoreJava\src\pkg24_Coupling" />
+      <recent name="D:\TonyStark\CoreJava\src" />
+      <recent name="D:\TonyStark\CoreJava\src\pkg15_AccessModifierPublic" />
+      <recent name="D:\TonyStark\CoreJava\src\pkg15_AccessModifierProtected" />
+      <recent name="D:\TonyStark\CoreJava\src\pkg14_KeywordSuper" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.C03_TryCatchFinally">
+    <configuration name="C01_Exception" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pkg07_Exception.C01_Exception" />
+      <module name="CoreJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C02_TryCatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pkg07_Exception.C02_TryCatch" />
+      <module name="CoreJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C03_TryCatchFinally" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pkg07_Exception.C03_TryCatchFinally" />
+      <module name="CoreJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C06_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pkg00_DataTypes.C06_String" />
+      <module name="CoreJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C121_StringHandling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pkg06_ReadymadeClasses.C121_StringHandling" />
+      <module name="CoreJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.C03_TryCatchFinally" />
+        <item itemvalue="Application.C02_TryCatch" />
+        <item itemvalue="Application.C01_Exception" />
+        <item itemvalue="Application.C121_StringHandling" />
+        <item itemvalue="Application.C06_String" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7544b2f9-faf5-4c9d-959a-457b5493b558" name="Default Changelist" comment="" />
+      <created>1601903857408</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601903857408</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="145" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1623563961607">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="413" y="145" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.30.1366.738@0.30.1366.738" timestamp="1623563961607" />
+    <state x="463" y="71" width="440" height="573" key="FileChooserDialogImpl" timestamp="1624713569683">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="463" y="71" width="440" height="573" key="FileChooserDialogImpl/0.30.1366.738@0.30.1366.738" timestamp="1624713569683" />
+    <state width="1345" height="208" key="GridCell.Tab.0.bottom" timestamp="1624591694442">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1345" height="208" key="GridCell.Tab.0.bottom/0.30.1366.738@0.30.1366.738" timestamp="1624591694442" />
+    <state width="1345" height="208" key="GridCell.Tab.0.center" timestamp="1624591694442">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1345" height="208" key="GridCell.Tab.0.center/0.30.1366.738@0.30.1366.738" timestamp="1624591694442" />
+    <state width="1345" height="208" key="GridCell.Tab.0.left" timestamp="1624591694442">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1345" height="208" key="GridCell.Tab.0.left/0.30.1366.738@0.30.1366.738" timestamp="1624591694442" />
+    <state width="1345" height="208" key="GridCell.Tab.0.right" timestamp="1624591694442">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1345" height="208" key="GridCell.Tab.0.right/0.30.1366.738@0.30.1366.738" timestamp="1624591694442" />
+    <state x="389" y="132" width="588" height="534" key="find.popup" timestamp="1625065705699">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="389" y="132" width="588" height="534" key="find.popup/0.30.1366.738@0.30.1366.738" timestamp="1625065705699" />
+    <state x="339" y="180" key="run.anything.popup" timestamp="1622870116229">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="339" y="180" key="run.anything.popup/0.30.1366.738@0.30.1366.738" timestamp="1622870116229" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pkg20_PolymorphismRunTime/BankCiti.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
